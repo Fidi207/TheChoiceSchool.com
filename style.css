@@ -1,0 +1,116 @@
+body {
+    text-align: center;
+    background: rgb(181, 188, 230);
+    background: radial-gradient(circle, rgba(181, 188, 230, 1) 0%, rgba(233, 86, 86, 1) 100%);
+}
+
+
+#para1{
+    font-size: 20px;
+    color: dimgray;
+}
+
+.col-lg-12 h5{
+    font-size: 20px;
+}
+
+.col-md-4 h6{
+    font-size: 15px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#imag{
+    opacity: 0;
+    height: 400px;
+    width: 400px;
+}
+
+.images{
+    width: 30%;
+    height: 30%;
+}
+
+.bootons{
+    background-color: cadetblue;
+    color: aliceblue;
+    width: 150px;
+    height: 150px;
+}
+
+.buttton{
+    background-color: cornflowerblue;
+}
+
+label{
+    color: azure;
+}
+
+#c1 h5{
+    color: black;
+}
